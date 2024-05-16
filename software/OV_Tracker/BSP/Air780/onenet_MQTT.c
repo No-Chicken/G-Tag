@@ -30,7 +30,7 @@
   *         2.时间戳et大于当前时间就行
   *         3.秘钥key去设备详情复制
   */
-//机3
+  //测试机子，下面需要改为自己的服务器的信息
 const char * ProductID = "592329";
 const char * DeviceName = "LightSensor1";
 const char * sign = "version=2018-10-31&res=products%2F592329&et=1996892239&method=md5&sign=v3vuXKmmsAC9r3IYNpkpgg%3D%3D";//md5算法生成的sign
